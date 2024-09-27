@@ -2,7 +2,7 @@ import allure
 from allure_commons.types import AttachmentType
 
 from yourstore.POM.loginpage import LogIn
-from yourstore.POM.giftpage import Send_gift
+from yourstore.POM.gift_page import Send_gift
 
 
 def test_gift(driver):
